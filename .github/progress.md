@@ -39,11 +39,11 @@
 
 ### Week 1: DSA + Big-O + Closures
 
-| Session | Topic                 | Problem   | Time | Result      | Notes |
-| ------- | --------------------- | --------- | ---- | ----------- | ----- |
-| 1.1     | Two Pointers          | TBD       | –    | ✅ Complete | –     |
-| 1.2     | Prefix Sum            | TBD       | –    | ⏳ Pending  | –     |
-| 1.3     | JS Closures Deep-Dive | (Concept) | –    | ⏳ Pending  | –     |
+| Session | Topic                 | Problem          | Time | Result      | Notes                                                  |
+| ------- | --------------------- | ---------------- | ---- | ----------- | ------------------------------------------------------ |
+| 1.1     | Two Pointers          | Valid Palindrome | –    | ✅ Complete | Two pointers; skip non-alphanumeric; compare lowercase |
+| 1.2     | Prefix Sum            | TBD              | –    | ⏳ Pending  | –                                                      |
+| 1.3     | JS Closures Deep-Dive | (Concept)        | –    | ⏳ Pending  | –                                                      |
 
 **Week 1 Goals:**
 
